@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209316951864",
+    "firebase_url": "https://aplikasi-wisata-f34cd.firebaseio.com",
+    "project_id": "aplikasi-wisata-f34cd",
+    "storage_bucket": "aplikasi-wisata-f34cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209316951864:android:d87d1ce78f382c1adfb3cd",
+        "android_client_info": {
+          "package_name": "com.venus.aplikasi_wisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209316951864-nrfe4qmkdslh57uc01dv3077o6tohg6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venus.aplikasi_wisata",
+            "certificate_hash": "d82506f3ab3b9974f2ac29de6485f0c07d34db73"
+          }
+        },
+        {
+          "client_id": "209316951864-2101av5t5gulmv9j2h3qo2rltqsok39r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4Rs5S2yTEseMFauW4Vqn3ytCqNGtz00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209316951864-2101av5t5gulmv9j2h3qo2rltqsok39r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
